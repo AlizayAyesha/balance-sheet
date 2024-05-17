@@ -1,11 +1,12 @@
 # Balance-sheet
 Welcome to the Balance Sheet Builder project! In this course, you'll learn how to create a balance sheet using HTML and CSS, with a focus on utilizing CSS pseudo-selectors to enhance interactivity and visual appeal.
 <br>
-balance-sheet/
-│
-├── index.html          # Main HTML file for the balance sheet
-├── style.css           # CSS file for styling the balance sheet
-└── README.md           # You're reading it right now!
+## Project Structure
+balance-sheet /<br>
+│<br>
+├── index.html  <br>      
+├── style.css      <br>    
+└── README.md          <br> 
 
 ## Project Overview
 
